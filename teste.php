@@ -177,5 +177,6 @@ $totalCorretos = verificarChavesEuromilhoes($chaveSorteio, $chaveUsuario);
 echo "Total de elementos corretos: $totalCorretos";
 echo "<br>";
 
+//FIM
 
 ?>
